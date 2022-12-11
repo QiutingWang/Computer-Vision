@@ -15,6 +15,7 @@ Image processing and computer vision tasks include displaying, cropping, flippin
 - R-CNN
 - Fast RCNN
 - YOLO
+  - [YOLOv4:Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)
   - [YOLOv6:A Single-Stage Object Detection Framework for Industrial Applications](https://arxiv.org/pdf/2209.02976.pdf)
   - [YOLOv7:Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/pdf/2207.02696.pdf)
 - Single Shot Multibox Detector(SSD)
