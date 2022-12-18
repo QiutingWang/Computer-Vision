@@ -23,3 +23,6 @@ Image processing and computer vision tasks include displaying, cropping, flippin
 ### Image Classification
 - [Vision Transformer:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929v2.pdf)
 
+### Generative Model
+- [GAN: Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
