@@ -25,4 +25,5 @@ Image processing and computer vision tasks include displaying, cropping, flippin
 
 ### Generative Model
 - [GAN: Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+- [VAE: Auto-Encoding Variational Bayes](Auto-Encoding Variational Bayes)
 
