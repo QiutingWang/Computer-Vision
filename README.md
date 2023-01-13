@@ -13,7 +13,10 @@ Image processing and computer vision tasks include displaying, cropping, flippin
 ### Object Detection
 - [Object Detection in 20 Years: A Survey](https://arxiv.org/pdf/1905.05055v2.pdf)
 - [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
-- Fast RCNN
+- [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+- [Faster R-CNN:Towards Real-Time Object
+Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+- Masked R-CNN
 - YOLO
   - [YOLOv4:Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)
   - [YOLOv6:A Single-Stage Object Detection Framework for Industrial Applications](https://arxiv.org/pdf/2209.02976.pdf)
