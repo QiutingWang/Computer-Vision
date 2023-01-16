@@ -9,6 +9,9 @@ Image processing and computer vision tasks include displaying, cropping, flippin
     
 - Pillow Package:<https://pillow.readthedocs.io/en/stable/index.html>
 
+- For network or system reasons the file cannot upload, review it on GoogleColab. [Fast R-CNN](https://colab.research.google.com/drive/1tqT33wtD_iknunCecVovjfs129BamcKo?pli=1)
+
+
 ## Paper Reading
 ### Object Detection
 - [Object Detection in 20 Years: A Survey](https://arxiv.org/pdf/1905.05055v2.pdf)
