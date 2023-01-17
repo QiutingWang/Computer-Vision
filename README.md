@@ -26,7 +26,7 @@ Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
   - [YOLOv7:Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/pdf/2207.02696.pdf)
 - Single Shot Multibox Detector(SSD)
 - FPN
-- A Survey of the Recent Architectures of Deep Convolutional Neural Networks[https://arxiv.org/pdf/1901.06032.pdf)
+- [A Survey of the Recent Architectures of Deep Convolutional Neural Networks](https://arxiv.org/pdf/1901.06032.pdf)
 ### Image Classification
 - [Vision Transformer:An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929v2.pdf)
 
